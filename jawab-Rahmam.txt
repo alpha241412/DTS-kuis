@@ -1,0 +1,9 @@
+4 akademi - 31 pelatihan
+VSGA - 8 pelatihan Drive Tester
+FGA - 12 pelatihan Cyber Security
+RDA - 6 pelatihan Smart City
+TA - 5 pelatihan IT Perbankan
+Program Vocational School Graduate Academy (VSGA) adalah program pelatihan intensif berbasis kompetensi nasional yang ditujukan bagi lulusan Pendidikan Vokasi - Drive Tester
+Program Fresh Graduate Academy Digital Talent Scholarship (FGA DTS) merupakan program pelatihan peningkatan kompetensi bidang TIK
+Program Thematic Academy (TA) merupakan salah satu akademi dari Digital Talent Scholarship tahun 2020 yang ditujukan spesifik pada sektor industri/kalangan tertentu, dimana kurikulumnya telah disesuaikan dengan kebutuhan industri.
+Program Regional Development Academy (RDA) merupakan program pelatihan pengembangan sumberdaya manusia yang ditujukan untuk meningkatkan kompetensi  ASN di Kawasan Pariwisata dan 122 Kabupaten Prioritas
